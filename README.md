@@ -33,7 +33,7 @@ an idea of what you need to develop.
 
 # === BEGIN ===
 
-conn = tls_connect("18.202.148.130:3333", cert, key)
+conn = tls_connect("xxx.xxx.xxx.xxx:xxxx", cert, key)
 
 authdata = ""
 
